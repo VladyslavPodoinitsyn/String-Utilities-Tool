@@ -1,3 +1,5 @@
+package day38_methods;
+
 import java.util.Locale;
 
 public class StringUtils {
